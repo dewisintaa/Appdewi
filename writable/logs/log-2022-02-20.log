@@ -1,0 +1,10 @@
+CRITICAL - 2022-02-20 06:46:07 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+#0 C:\xampp\htdocs\app_caffe_dewi\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#1 C:\xampp\htdocs\app_caffe_dewi\system\BaseModel.php(963): CodeIgniter\Model->doDelete('0', false)
+#2 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(101): CodeIgniter\BaseModel->delete('0')
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\controllers\usercontroller->delete('0')
+#4 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\usercontroller))
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}

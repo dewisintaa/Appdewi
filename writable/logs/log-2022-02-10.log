@@ -1,0 +1,105 @@
+CRITICAL - 2022-02-10 19:08:47 --> Undefined property: App\Controllers\usercontroller::$users
+#0 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 21)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\usercontroller->tampil()
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usercontroller))
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-10 19:09:05 --> Undefined variable $menu
+#0 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\menucontroller.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\menucontroller->tampil()
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menucontroller))
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-10 19:09:31 --> Undefined property: App\Controllers\usercontroller::$users
+#0 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 21)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\usercontroller->tampil()
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usercontroller))
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-10 19:11:53 --> Undefined property: App\Controllers\usercontroller::$users
+#0 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\usercontroller->tampil()
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usercontroller))
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-10 19:15:21 --> Undefined property: App\Controllers\usercontroller::$users
+#0 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\usercontroller->tampil()
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usercontroller))
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-10 19:15:22 --> Undefined property: App\Controllers\usercontroller::$users
+#0 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\usercontroller->tampil()
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usercontroller))
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-10 19:15:23 --> Undefined property: App\Controllers\usercontroller::$users
+#0 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\usercontroller->tampil()
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usercontroller))
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-10 19:15:23 --> Undefined property: App\Controllers\usercontroller::$users
+#0 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\usercontroller->tampil()
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usercontroller))
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-10 19:15:27 --> Undefined property: App\Controllers\usercontroller::$users
+#0 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\usercontroller->tampil()
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usercontroller))
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-10 19:15:48 --> Call to undefined method CodeIgniter\Session\Session::getFlashddata()
+#0 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('userlist', Array, true)
+#3 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(25): view('userlist', Array)
+#4 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\usercontroller->tampil()
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usercontroller))
+#6 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-10 19:18:52 --> Undefined variable $data
+#0 C:\xampp\htdocs\app_caffe_dewi\app\Views\userlist.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('userlist', Array, true)
+#4 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(25): view('userlist', Array)
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\usercontroller->tampil()
+#6 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usercontroller))
+#7 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-10 21:58:16 --> syntax error, unexpected token "}"
+#0 C:\xampp\htdocs\app_caffe_dewi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\app_caffe_dewi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}

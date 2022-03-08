@@ -1,0 +1,128 @@
+CRITICAL - 2022-03-03 19:45:38 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+#0 D:\Xammpp\htdocs\app_caffe_dewi\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#1 D:\Xammpp\htdocs\app_caffe_dewi\system\BaseModel.php(963): CodeIgniter\Model->doDelete('0', false)
+#2 D:\Xammpp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(101): CodeIgniter\BaseModel->delete('0')
+#3 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\controllers\usercontroller->delete('0')
+#4 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\usercontroller))
+#5 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Xammpp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Xammpp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('D:\\Xammpp\\htdoc...')
+#8 {main}
+CRITICAL - 2022-03-03 21:29:51 --> Undefined index: passwosrd
+#0 D:\Xammpp\htdocs\app_caffe_dewi\app\Views\userlist.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Xammpp\\htdoc...', 36, Array)
+#1 D:\Xammpp\htdocs\app_caffe_dewi\system\View\View.php(210): include('D:\\Xammpp\\htdoc...')
+#2 D:\Xammpp\htdocs\app_caffe_dewi\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 D:\Xammpp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('userlist', Array, true)
+#4 D:\Xammpp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(28): view('userlist', Array)
+#5 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\controllers\usercontroller->tampil()
+#6 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\usercontroller))
+#7 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Xammpp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 D:\Xammpp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('D:\\Xammpp\\htdoc...')
+#10 {main}
+CRITICAL - 2022-03-03 21:49:02 --> Undefined property: App\controllers\usercontroller::$users
+#0 D:\Xammpp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(66): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\Xammpp\\htdoc...', 66, Array)
+#1 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\controllers\usercontroller->login()
+#2 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\usercontroller))
+#3 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xammpp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xammpp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('D:\\Xammpp\\htdoc...')
+#6 {main}
+CRITICAL - 2022-03-03 21:52:14 --> Undefined index: id_detail
+#0 D:\Xammpp\htdocs\app_caffe_dewi\app\Controllers\pesanancontroller.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Xammpp\\htdoc...', 103, Array)
+#1 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->simpan()
+#2 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#3 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xammpp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xammpp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('D:\\Xammpp\\htdoc...')
+#6 {main}
+CRITICAL - 2022-03-03 21:56:19 --> Undefined index: id_detail
+#0 D:\Xammpp\htdocs\app_caffe_dewi\app\Controllers\pesanancontroller.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'D:\\Xammpp\\htdoc...', 103, Array)
+#1 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->simpan()
+#2 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#3 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\Xammpp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\Xammpp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('D:\\Xammpp\\htdoc...')
+#6 {main}
+ERROR - 2022-03-03 22:06:26 --> Column 'nama_pemesan' cannot be null
+CRITICAL - 2022-03-03 22:06:26 --> Column 'nama_pemesan' cannot be null
+#0 D:\Xammpp\htdocs\app_caffe_dewi\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `id...', 0)
+#1 D:\Xammpp\htdocs\app_caffe_dewi\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `id...')
+#2 D:\Xammpp\htdocs\app_caffe_dewi\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `id...')
+#3 D:\Xammpp\htdocs\app_caffe_dewi\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `id...', Array, false)
+#4 D:\Xammpp\htdocs\app_caffe_dewi\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\Xammpp\htdocs\app_caffe_dewi\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 D:\Xammpp\htdocs\app_caffe_dewi\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\Xammpp\htdocs\app_caffe_dewi\app\Controllers\pesanancontroller.php(96): CodeIgniter\Model->insert(Array)
+#8 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->simpan()
+#9 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#10 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\Xammpp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 D:\Xammpp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('D:\\Xammpp\\htdoc...')
+#13 {main}
+ERROR - 2022-03-03 22:07:17 --> Column 'nama_pemesan' cannot be null
+CRITICAL - 2022-03-03 22:07:17 --> Column 'nama_pemesan' cannot be null
+#0 D:\Xammpp\htdocs\app_caffe_dewi\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `id...', 0)
+#1 D:\Xammpp\htdocs\app_caffe_dewi\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `id...')
+#2 D:\Xammpp\htdocs\app_caffe_dewi\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `id...')
+#3 D:\Xammpp\htdocs\app_caffe_dewi\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `id...', Array, false)
+#4 D:\Xammpp\htdocs\app_caffe_dewi\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\Xammpp\htdocs\app_caffe_dewi\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 D:\Xammpp\htdocs\app_caffe_dewi\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\Xammpp\htdocs\app_caffe_dewi\app\Controllers\pesanancontroller.php(96): CodeIgniter\Model->insert(Array)
+#8 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->simpan()
+#9 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#10 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\Xammpp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 D:\Xammpp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('D:\\Xammpp\\htdoc...')
+#13 {main}
+CRITICAL - 2022-03-03 22:13:32 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+#0 D:\Xammpp\htdocs\app_caffe_dewi\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#1 D:\Xammpp\htdocs\app_caffe_dewi\system\BaseModel.php(963): CodeIgniter\Model->doDelete('0', false)
+#2 D:\Xammpp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(100): CodeIgniter\BaseModel->delete('0')
+#3 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\controllers\usercontroller->delete('0')
+#4 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\usercontroller))
+#5 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Xammpp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Xammpp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('D:\\Xammpp\\htdoc...')
+#8 {main}
+CRITICAL - 2022-03-03 22:20:07 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+#0 D:\Xammpp\htdocs\app_caffe_dewi\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#1 D:\Xammpp\htdocs\app_caffe_dewi\system\BaseModel.php(963): CodeIgniter\Model->doDelete('0', false)
+#2 D:\Xammpp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(100): CodeIgniter\BaseModel->delete('0')
+#3 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\controllers\usercontroller->delete('0')
+#4 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\usercontroller))
+#5 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Xammpp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Xammpp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('D:\\Xammpp\\htdoc...')
+#8 {main}
+CRITICAL - 2022-03-03 22:21:28 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+#0 D:\Xammpp\htdocs\app_caffe_dewi\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#1 D:\Xammpp\htdocs\app_caffe_dewi\system\BaseModel.php(963): CodeIgniter\Model->doDelete('0', false)
+#2 D:\Xammpp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(100): CodeIgniter\BaseModel->delete('0')
+#3 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\controllers\usercontroller->delete('0')
+#4 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\usercontroller))
+#5 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Xammpp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Xammpp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('D:\\Xammpp\\htdoc...')
+#8 {main}
+CRITICAL - 2022-03-03 22:23:39 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+#0 D:\Xammpp\htdocs\app_caffe_dewi\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#1 D:\Xammpp\htdocs\app_caffe_dewi\system\BaseModel.php(963): CodeIgniter\Model->doDelete('0', false)
+#2 D:\Xammpp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(100): CodeIgniter\BaseModel->delete('0')
+#3 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\controllers\usercontroller->delete('0')
+#4 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\usercontroller))
+#5 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Xammpp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Xammpp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('D:\\Xammpp\\htdoc...')
+#8 {main}
+CRITICAL - 2022-03-03 22:24:24 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+#0 D:\Xammpp\htdocs\app_caffe_dewi\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#1 D:\Xammpp\htdocs\app_caffe_dewi\system\BaseModel.php(963): CodeIgniter\Model->doDelete('0', false)
+#2 D:\Xammpp\htdocs\app_caffe_dewi\app\Controllers\usercontroller.php(100): CodeIgniter\BaseModel->delete('0')
+#3 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\controllers\usercontroller->delete('0')
+#4 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\usercontroller))
+#5 D:\Xammpp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\Xammpp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 D:\Xammpp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('D:\\Xammpp\\htdoc...')
+#8 {main}

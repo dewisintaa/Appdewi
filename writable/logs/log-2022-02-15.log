@@ -1,0 +1,63 @@
+CRITICAL - 2022-02-15 07:18:30 --> Undefined array key "id"
+#0 C:\xampp\htdocs\app_caffe_dewi\app\Views\menulist.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 37)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('menulist', Array, true)
+#4 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\menucontroller.php(22): view('menulist', Array)
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\menucontroller->tampil()
+#6 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menucontroller))
+#7 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-15 07:21:33 --> Undefined array key "id"
+#0 C:\xampp\htdocs\app_caffe_dewi\app\Views\menulist.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 37)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('menulist', Array, true)
+#4 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\menucontroller.php(22): view('menulist', Array)
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\menucontroller->tampil()
+#6 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menucontroller))
+#7 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-15 07:29:19 --> Undefined array key "id"
+#0 C:\xampp\htdocs\app_caffe_dewi\app\Views\menulist.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 42)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('menulist', Array, true)
+#4 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\menucontroller.php(22): view('menulist', Array)
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\menucontroller->tampil()
+#6 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menucontroller))
+#7 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-15 07:29:47 --> Undefined array key "id"
+#0 C:\xampp\htdocs\app_caffe_dewi\app\Views\menulist.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('menulist', Array, true)
+#4 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\menucontroller.php(22): view('menulist', Array)
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\menucontroller->tampil()
+#6 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menucontroller))
+#7 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-02-15 18:07:51 --> Unknown column 'tb_menu.id' in 'where clause'
+CRITICAL - 2022-02-15 18:07:51 --> Unknown column 'tb_menu.id' in 'where clause'
+#0 C:\xampp\htdocs\app_caffe_dewi\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\app_caffe_dewi\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\app_caffe_dewi\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\app_caffe_dewi\system\Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\app_caffe_dewi\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '-')
+#6 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\pesanancontroller.php(41): CodeIgniter\BaseModel->find('-')
+#7 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->addCart()
+#8 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#9 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#12 {main}

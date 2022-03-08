@@ -1,0 +1,238 @@
+CRITICAL - 2022-02-02 06:59:45 --> Invalid file: dashboard.php
+#0 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\Home.php(17): view('dashboard')
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-02 07:15:57 --> Invalid file: dashboard.php
+#0 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\Home.php(17): view('dashboard')
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-02 20:40:36 --> Invalid file: dashboard.php
+#0 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\Home.php(17): view('dashboard')
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-02 20:40:48 --> Invalid file: dashboard.php
+#0 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\Home.php(17): view('dashboard')
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-02 20:43:47 --> Invalid file: dashboard.php
+#0 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\Home.php(17): view('dashboard')
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-02 21:31:33 --> Invalid file: dashboard.php
+#0 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\Home.php(17): view('dashboard')
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-02 21:31:36 --> Invalid file: dashboard.php
+#0 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\Home.php(17): view('dashboard')
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-02 21:31:37 --> Invalid file: dashboard.php
+#0 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\Home.php(17): view('dashboard')
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-02 21:31:37 --> Invalid file: dashboard.php
+#0 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\Home.php(17): view('dashboard')
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-02 22:07:59 --> Invalid file: dashboard.php
+#0 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\Home.php(17): view('dashboard')
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-02 22:28:41 --> Invalid file: layouts/components/sidebar.php
+#0 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/compone...')
+#1 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(424): CodeIgniter\View\View->render('layouts/compone...', NULL, true)
+#2 C:\xampp\htdocs\app_caffe_dewi\app\Views\layouts\admin.php(24): CodeIgniter\View\View->include('layouts/compone...')
+#3 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#6 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#7 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\Home.php(17): view('dashboard')
+#8 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#9 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2022-02-02 22:28:44 --> Invalid file: layouts/components/sidebar.php
+#0 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layouts/compone...')
+#1 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(424): CodeIgniter\View\View->render('layouts/compone...', NULL, true)
+#2 C:\xampp\htdocs\app_caffe_dewi\app\Views\layouts\admin.php(24): CodeIgniter\View\View->include('layouts/compone...')
+#3 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\xampp\htdocs\app_caffe_dewi\system\View\View.php(226): CodeIgniter\View\View->render('layouts/admin', Array, true)
+#6 C:\xampp\htdocs\app_caffe_dewi\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#7 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\Home.php(17): view('dashboard')
+#8 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\Home->dashboard()
+#9 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#10 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2022-02-02 23:14:30 --> Call to a member function filAll() on string
+#0 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->tampil()
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-02 23:16:21 --> Undefined variable $pesanan
+#0 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\pesanancontroller.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->tampil()
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-02 23:16:22 --> Undefined variable $pesanan
+#0 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\pesanancontroller.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->tampil()
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-02 23:16:22 --> Undefined variable $pesanan
+#0 C:\xampp\htdocs\app_caffe_dewi\app\Controllers\pesanancontroller.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->tampil()
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#3 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-02 23:16:45 --> Call to a member function filAll() on string
+#0 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->tampil()
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-02 23:16:46 --> Call to a member function filAll() on string
+#0 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->tampil()
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-02 23:16:47 --> Call to a member function filAll() on string
+#0 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->tampil()
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-02 23:17:21 --> Call to a member function finAll() on string
+#0 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->tampil()
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-02 23:17:47 --> Call to a member function finAll() on string
+#0 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->tampil()
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-02 23:17:53 --> Call to a member function finAll() on string
+#0 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->tampil()
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-02 23:19:07 --> Call to a member function findAll() on string
+#0 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->tampil()
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-02 23:19:47 --> Call to a member function findAll() on string
+#0 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->tampil()
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-02 23:21:04 --> Call to a member function findAll() on string
+#0 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->tampil()
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-02 23:54:26 --> Call to a member function findAll() on string
+#0 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->tampil()
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-02 23:54:47 --> Call to a member function findAll() on string
+#0 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(825): App\Controllers\pesanancontroller->tampil()
+#1 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\pesanancontroller))
+#2 C:\xampp\htdocs\app_caffe_dewi\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\app_caffe_dewi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\app_caffe_dewi\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
